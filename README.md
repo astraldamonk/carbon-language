@@ -18,4 +18,4 @@ function <main>
 }
 ```
 
-made by @lmapy, @lbaarleah
+made by astral, leah
