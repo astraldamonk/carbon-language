@@ -17,3 +17,5 @@ function <main>
      print>"hi"
 }
 ```
+
+made by @lmapy (astral.xyz) and @lbaarleah (leahcsharp)
