@@ -18,4 +18,4 @@ function <main>
 }
 ```
 
-constructed by astral, leah
+forged by astral, leah
