@@ -18,4 +18,4 @@ function <main>
 }
 ```
 
-made by astral, leah
+constructed by astral, leah
