@@ -18,4 +18,4 @@ function <main>
 }
 ```
 
-made by @lmapy (astral.xyz) and @lbaarleah (leahcsharp) [Discord users]
+made by @lmapy, @lbaarleah
