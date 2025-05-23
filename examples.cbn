@@ -1,0 +1,7 @@
+function <example1> {
+    set> int a = 5
+    set> int b = 10
+    add> result = a + b
+    print> result
+    print> "Done!"
+}
